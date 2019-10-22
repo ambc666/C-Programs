@@ -1,0 +1,13 @@
+I:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\bin\Debug\Train_Tickets.exe.config
+I:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\bin\Debug\Train_Tickets.exe
+I:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\bin\Debug\Train_Tickets.pdb
+I:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\obj\Debug\Train_Tickets.csprojResolveAssemblyReference.cache
+I:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\obj\Debug\Train_Tickets.csproj.CoreCompileInputs.cache
+I:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\obj\Debug\Train_Tickets.exe
+I:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\obj\Debug\Train_Tickets.pdb
+E:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\bin\Debug\Train_Tickets.exe.config
+E:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\bin\Debug\Train_Tickets.exe
+E:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\bin\Debug\Train_Tickets.pdb
+E:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\obj\Debug\Train_Tickets.csprojResolveAssemblyReference.cache
+E:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\obj\Debug\Train_Tickets.exe
+E:\College\Trimester 3\2 - Wednesday\C#\Assessment\Task 4\Train_Tickets\Train_Tickets\obj\Debug\Train_Tickets.pdb
